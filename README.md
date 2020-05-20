@@ -3,5 +3,5 @@
 
  Data is fetched from www.covid19india.org
  
- Gson and OKHttp are used to parsed the JSON data.
+ Gson and OKHttp are used to parse the JSON data.
  
