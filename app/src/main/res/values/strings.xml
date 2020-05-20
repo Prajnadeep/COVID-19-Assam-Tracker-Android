@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Covid-19 Assam</string>
+    <string
+        name="messageWithLink"><a href="https://www.covid19india.org//">Tap here to open Link</a></string>
+    <string
+        name="email"><a href="rockacc.x11@gmail.com">Tap here to open Link</a></string>
+</resources>
