@@ -5,6 +5,9 @@ import android.os.Bundle
 import android.text.method.LinkMovementMethod
 import android.widget.TextView
 
+//Prajnadeep Das
+//15-05-2020
+
 class infoActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {

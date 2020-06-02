@@ -134,9 +134,6 @@ fun parsedata(JSONstring: String, mainActivity: MainActivity){
         totalDeceasedAssam +=MyObj[i].getDeceasedNo()!!
     }
 
-    //UNKNOWN BUT MATCHES RESULTS
-    totalActiveAssam -= 2
-
     Thread(Runnable {
         // Update UI of Main thread
         mainActivity.runOnUiThread(java.lang.Runnable {

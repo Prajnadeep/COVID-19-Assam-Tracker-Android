@@ -30,8 +30,8 @@
 
     <TextView
         android:id="@+id/textViewtemp654145"
-        android:layout_width="341dp"
-        android:layout_height="454dp"
+        android:layout_width="337dp"
+        android:layout_height="428dp"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
@@ -39,9 +39,8 @@
         android:layout_marginRight="8dp"
         android:fontFamily="@font/comfortaa"
         android:maxLines="50"
-        android:text="Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus
-Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
-The best way to prevent and slow down transmission is be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.
+        android:text="Coronavirus disease (COVID-19) is an infectious disease of which most people will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
+The best way to prevent and slow down the transmission is by knowing the causes and taking the required precautions. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.
 The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).
 At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments."
         android:textColor="#000000"
@@ -56,7 +55,7 @@ At this time, there are no specific vaccines or treatments for COVID-19. However
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:fontFamily="@font/comfortaa_bold"
