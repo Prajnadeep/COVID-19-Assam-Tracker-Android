@@ -7,5 +7,5 @@
  
  Gson and OKHttp are used to parse the JSON data.
  
- App Link:https://drive.google.com/file/d/1DqWEyF3aV20WgrG8sJYbuqNrbGw22IyB/view?usp=sharing
+ App Link: https://drive.google.com/file/d/1DqWEyF3aV20WgrG8sJYbuqNrbGw22IyB/view?usp=sharing
  
